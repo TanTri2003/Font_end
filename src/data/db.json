@@ -1,0 +1,100 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "VÕ TẤN TRÍ",
+      "phone": "0359694849",
+      "email": "votantri2009@gmail.com",
+      "gender": "Nam",
+      "hobby": [
+        "Đọc Truyện",
+        "Chơi_Game"
+      ],
+      "country": {
+        "id": 1,
+        "name": "Đà Nẵng"
+      }
+    },
+    {
+      "id": 3,
+      "name": "vo tan tri",
+      "phone": "0344721520",
+      "email": "votantri2004@gmail.com",
+      "gender": "Nam",
+      "hobby": [
+        "Đọc Truyện"
+      ],
+      "country": {
+        "id": 1,
+        "name": "Đà Nẵng"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Võ Tấn Trí",
+      "phone": "123456789",
+      "email": "votantri2009@gmail.com",
+      "gender": "Nam",
+      "hobby": [
+        "Đọc Truyện",
+        "Đọc_sách"
+      ],
+      "country": {
+        "id": 2,
+        "name": "Quảng nam"
+      }
+    },
+    {
+      "id": 5,
+      "name": "VÕ TẤN TRÍ",
+      "phone": "123456789",
+      "email": "votantri2009@gmail.com",
+      "gender": "Nam",
+      "hobby": [
+        "Đọc Truyện",
+        "Chơi_Game",
+        "Đọc_sách"
+      ],
+      "country": {
+          "id": 3,
+          "name": "Quảng Ngãi"
+      }
+    }
+  ],
+  "country": [
+    {
+      "id": 1,
+      "name": "Đà Nẵng"
+    },
+    {
+      "id": 2,
+      "name": "Quảng nam"
+    },
+    {
+      "id": 3,
+      "name": "Quảng Ngãi"
+    },
+    {
+      "id": 4,
+      "name": "Huế"
+    },
+    {
+      "id": 5,
+      "name": "Hà Tỉnh"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "username": "Tri123",
+      "password": "123",
+      "role": "USER"
+    }
+  ]
+}
